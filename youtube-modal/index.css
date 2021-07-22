@@ -54,6 +54,7 @@
 	-o-transition-duration: 0.1s;
 	-moz-transition-duration: 0.1s;
 	transition-duration: 0.1s;
+	cursor: pointer;
 }
 #youtube-modal-close:hover {
 	background: #333;
