@@ -277,14 +277,14 @@ const movieConstructor = (selector, options) => {
 };
 
 movieConstructor('.app', {
-	title: 'Ведьмак',
-	background: 'witcher/background.jpg',
-	favicon: 'witcher/logo.png',
-	fontColor: '#ffffff',
+	title: 'Чёрные паруса',
+	background: 'BlackSails/BlackSails_bg.jpg',
+	favicon: 'BlackSails/BS_logo.png',
+	fontColor: '#ffff',
 	backgroundColor: '#141218',
 	subColor: '#9D2929',
 	header: {
-		logo: 'witcher/logo.png',
+		logo: 'BlackSails/BS_logo.png',
 		social: [
 			{
 				title: 'Twitter',
@@ -318,10 +318,10 @@ movieConstructor('.app', {
 		]
 	},
 	main: {
-		genre: '2019,фэнтези',
+		genre: '2014,приключения',
 		rating: '8',
-		description: 'Ведьмак Геральт, мутант и убийца чудовищ, на своей верной лошади по кличке Плотва путешествует по Континенту. За тугой мешочек чеканных монет этот мужчина избавит вас от всякой настырной нечисти — хоть от чудищ болотных, оборотней и даже заколдованных принцесс.',
-		trailer: 'https://www.youtube.com/watch?v=P0oJqfLzZzQ',
+		description: '1715 год. Золотой век - вершина пиратства в Карибском море. Остров бывшей британской колонии Нью-Провиденс является территорией беззакония, контролируемый самыми известными пиратскими капитанами в истории. Самым грозным из них является капитан Флинт.',
+		trailer: 'https://www.youtube.com/watch?v=PicXN4__lck',
 		slider: [
 			{
 				img: 'witcher/series/series-1.jpg',
