@@ -279,12 +279,12 @@ const movieConstructor = (selector, options) => {
 movieConstructor('.app', {
 	title: 'Чёрные паруса',
 	background: 'BlackSails/BlackSails_bg.jpg',
-	favicon: 'BlackSails/BS_logo.png',
+	favicon: 'BlackSails/BS_favicon.png',
 	fontColor: '#ffff',
 	backgroundColor: '#141218',
 	subColor: '#9D2929',
 	header: {
-		logo: 'BlackSails/BS_logo.png',
+		logo: 'BlackSails/BS_favicon.png',
 		social: [
 			{
 				title: 'Twitter',
