@@ -284,7 +284,7 @@ movieConstructor('.app', {
 	backgroundColor: '#141218',
 	subColor: '#9D2929',
 	header: {
-		logo: 'BlackSails/BS_favicon.png',
+		logo: 'BlackSails/BS_logo.svg',
 		social: [
 			{
 				title: 'Twitter',
@@ -324,23 +324,23 @@ movieConstructor('.app', {
 		trailer: 'https://www.youtube.com/watch?v=PicXN4__lck',
 		slider: [
 			{
-				img: 'witcher/series/series-1.jpg',
-				title: 'Начало конца',
+				img: 'BlackSails/series/1_1.jpg',
+				title: '«I.»',
 				subtitle: 'Серия №1',
 			}, 
 			{
-				img: 'witcher/series/series-2.jpg',
-				title: 'Четыре марки',
+				img: 'BlackSails/series/1_2.jpg',
+				title: '«II.»',
 				subtitle: 'Серия №2',
 			}, 
 			{
-				img: 'witcher/series/series-3.jpg',
-				title: 'Предательская луна',
+				img: 'BlackSails/series/1_3.jpg',
+				title: '«III.»',
 				subtitle: 'Серия №3',
 			},
 			{
-				img: 'witcher/series/series-4.jpg',
-				title: 'Банкеты, ублюдки и похороны',
+				img: 'BlackSails/series/1_4.jpg',
+				title: '«IV.»',
 				subtitle: 'Серия №4',
 			}
 		]
